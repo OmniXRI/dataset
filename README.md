@@ -1,6 +1,4 @@
-# dataset
-public dataset
-====
+# pbulic dataset
 
 passion_fruit_jpg 百香果資料集<br>
 ----
